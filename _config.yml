@@ -1,0 +1,21 @@
+layout_spectrum: 0.4121172413362725
+typography_spectrum: 0.5853138755663012
+color:
+  brandStrength: 0.8174857184893941
+  lightness: 0.6710393521135286
+  saturation: 0.70647464754189
+  rhythmicContrast: 0.5698478841078976
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Architechtronica
+title: Architechtronica
+content: []
+description: boundary architecture + technology
+url: 'http://architechtronica.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eed9a269-58c6-4801-8dd8-f594cf523499.png
+github: true
