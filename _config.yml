@@ -13,7 +13,32 @@ color:
     - '#253237'
 name: Architechtronica
 title: Architechtronica
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/380108a6-36b8-44f3-ba30-e74d71f534fa.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/380108a6-36b8-44f3-ba30-e74d71f534fa.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: boundary architecture + technology
 url: 'http://architechtronica.com'
 logo: >-
