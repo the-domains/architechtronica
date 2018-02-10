@@ -1,16 +1,16 @@
-layout_spectrum: 0.927855484082299
-typography_spectrum: 0.17189143109900676
+layout_spectrum: 0.3296041079066546
+typography_spectrum: 0.19133245640969143
 color:
-  brandStrength: 0.22822467144375833
-  lightness: 0.3750441479785276
-  saturation: 0.39055824494505725
-  rhythmicContrast: 0.6652850876662807
+  brandStrength: 0.2919214747445934
+  lightness: 0.0009115466267091803
+  saturation: 0.771039676743993
+  rhythmicContrast: 0.29453379622771225
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 name: Architechtronica
 title: Architechtronica
 content:
@@ -31,7 +31,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
