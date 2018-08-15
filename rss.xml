@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Architechtronica]]></title>
+        <description><![CDATA[Architechtronica]]></description>
+        <link>http://architechtronica.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 15 Aug 2018 17:23:46 GMT</lastBuildDate>
+        <atom:link href="http://architechtronica.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 15 Aug 2018 17:23:45 GMT</pubDate>
+        <item>
+            <title><![CDATA[Site Selection - GeoSpatial Analysis]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fsatya-basu.carto.com%2Fviz%2Fed079978-e0d5-11e6-9e50-0e3a376473ab%2Fembed_map&url=https%3A%2F%2Fsatya-basu.carto.com%2Fbuilder%2Fed079978-e0d5-11e6-9e50-0e3a376473ab%2Fembed&image=https%3A%2F%2Fcartocdn-ashbu.global.ssl.fastly.net%2Fsatya-basu%2Fapi%2Fv1%2Fmap%2Fstatic%2Fnamed%2Ftpl_ed079978_e0d5_11e6_9e50_0e3a376473ab%2F1200%2F630.png&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=carto" width="800" height="600" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://satya-basu.carto.com/builder/ed079978-e0d5-11e6-9e50-0e3a376473ab/embed</link>
+            <guid isPermaLink="false">c96b279e-fd1a-4db6-a2e3-904ea2c58ae3</guid>
+            <pubDate>Thu, 20 Apr 2017 09:21:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forma sample]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F206290112&url=https%3A%2F%2Fvimeo.com%2F206290112&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F621267926_1280.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://vimeo.com/206290112</link>
+            <guid isPermaLink="false">9b9a05a2-83d8-45a7-9ed8-5ee74cb44d9e</guid>
+            <pubDate>Thu, 20 Apr 2017 09:14:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
